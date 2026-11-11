@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Welcome. This is your Ice Breaker!</title>
 <style>
 :root{--lime:#7ee33b;--green:#20a83a;--ink:#071713;--panel:#102820;--line:#28523c;--white:#f5fff7;--muted:#b7cdbd}
