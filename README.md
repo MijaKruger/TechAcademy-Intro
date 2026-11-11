@@ -1,4 +1,3 @@
-# TechAcademy-Intro<!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
