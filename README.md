@@ -1,21 +1,22 @@
 # TechAcademy-Intro<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Tagmarshal Tech Academy — Icebreaker</title>
+<title>Welcome. This is your Ice Breaker!</title>
 <style>
 :root{--lime:#7ee33b;--green:#20a83a;--ink:#071713;--panel:#102820;--line:#28523c;--white:#f5fff7;--muted:#b7cdbd}
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at top,#17442b,#06120f 65%);color:var(--white);font:16px/1.45 system-ui,Segoe UI,Arial}
 .wrap{max-width:900px;margin:auto;padding:22px}.brand{display:flex;align-items:center;gap:12px;font-weight:800;letter-spacing:.04em}.mark{font-size:30px;color:var(--lime)}.tag{color:var(--lime);font-size:.8rem;letter-spacing:.15em}
 .card{background:linear-gradient(145deg,#143526,#0b1d16);border:1px solid var(--line);border-radius:20px;padding:clamp(20px,4vw,36px);box-shadow:0 18px 50px #0005;margin-top:18px}
-h1{font-size:clamp(2rem,6vw,4rem);line-height:1.02;margin:.4em 0}h2{margin:.2em 0 .7em}p{color:var(--muted)}button,input{font:inherit}button{cursor:pointer;border:0;border-radius:12px;padding:13px 18px;font-weight:750;background:var(--lime);color:#09200e}button.secondary{background:#183b29;color:var(--white);border:1px solid #39704b}button:disabled{opacity:.45;cursor:not-allowed}.row{display:flex;gap:10px;flex-wrap:wrap}.row>*{flex:1}.hidden{display:none!important}.pill{display:inline-block;border:1px solid #356447;padding:5px 10px;border-radius:99px;color:var(--lime);font-size:.8rem}.progress{height:8px;background:#254333;border-radius:99px;overflow:hidden;margin:18px 0}.progress span{display:block;height:100%;background:var(--lime);width:0;transition:.25s}.options{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:20px 0}.opt{background:#f5fff7;color:#102419;text-align:left;border:3px solid transparent;min-height:70px}.opt.selected{border-color:var(--lime);background:#dfffd0}.opt.correct{background:#c9ffc0}.opt.wrong{background:#ffd8d8;border-color:#d44}.feedback{padding:12px;border-radius:10px;background:#183b29;margin:10px 0}.scorebig{font-size:3rem;color:var(--lime);font-weight:900}.leader{width:100%;border-collapse:collapse}.leader td,.leader th{text-align:left;padding:10px;border-bottom:1px solid #2b503a}.leader th{color:var(--lime)}input{width:100%;padding:12px;border-radius:10px;border:1px solid #39704b;background:#06140e;color:white;margin:6px 0 14px}.small{font-size:.9rem}.footer{text-align:center;color:#7f9c89;padding:22px}
+h1{font-size:clamp(2rem,6vw,3.5rem);line-height:1.05;margin:.4em 0}h2{margin:.2em 0 .7em}p{color:var(--muted)}button,input{font:inherit}button{cursor:pointer;border:0;border-radius:12px;padding:13px 18px;font-weight:750;background:var(--lime);color:#09200e}button.secondary{background:#183b29;color:var(--white);border:1px solid #39704b}button:disabled{opacity:.45;cursor:not-allowed}.row{display:flex;gap:10px;flex-wrap:wrap}.row>*{flex:1}.hidden{display:none!important}.pill{display:inline-block;border:1px solid #356447;padding:5px 10px;border-radius:99px;color:var(--lime);font-size:.8rem}.progress{height:8px;background:#254333;border-radius:99px;overflow:hidden;margin:18px 0}.progress span{display:block;height:100%;background:var(--lime);width:0;transition:.25s}.options{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:20px 0}.opt{background:#f5fff7;color:#102419;text-align:left;border:3px solid transparent;min-height:70px}.opt.selected{border-color:var(--lime);background:#dfffd0}.opt.correct{background:#c9ffc0}.opt.wrong{background:#ffd8d8;border-color:#d44}.feedback{padding:12px;border-radius:10px;background:#183b29;margin:10px 0}.scorebig{font-size:3rem;color:var(--lime);font-weight:900}.leader{width:100%;border-collapse:collapse}.leader td,.leader th{text-align:left;padding:10px;border-bottom:1px solid #2b503a}.leader th{color:var(--lime)}input{width:100%;padding:12px;border-radius:10px;border:1px solid #39704b;background:#06140e;color:white;margin:6px 0 14px}.small{font-size:.9rem}.footer{text-align:center;color:#7f9c89;padding:22px}
 </style>
 </head>
 <body><main class="wrap">
 <header class="brand"><span class="mark">◆</span><span>TAGMARSHAL</span><span class="tag">TECH ACADEMY</span></header>
 <section id="welcome" class="card">
 <span class="pill">ONLINE ICEBREAKER • 10–15 MIN</span>
-<h1>Learn.<br><span style="color:var(--lime)">Connect. Grow.</span></h1>
+<h1>Welcome.<br><span style="color:var(--lime)">This is your Ice Breaker!</span></h1>
 <p>Welcome to the Tagmarshal Tech Academy! Warm up, test your knowledge, and celebrate your learning journey.</p>
 <label for="player">Your name</label><input id="player" maxlength="30" placeholder="Enter your name">
 <label for="team">Team name (optional)</label><input id="team" maxlength="30" placeholder="e.g. Fairway Fixers">
